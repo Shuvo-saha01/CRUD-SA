@@ -1,0 +1,5 @@
+1 project a html page in home route
+2 add data 
+3 read data
+4 update data 
+5 delete data 
